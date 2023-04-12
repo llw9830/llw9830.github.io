@@ -21,5 +21,5 @@ This article is a link to all the tutorials.
 
 ## Series Guides
 
-* [How to create your blog for free in 10min](https://guangzhengli.com/blog/en/how-to-create-your-blog-for-free-in-10min/)
-* [how-to-create-your-blog-for-free-by-hugo-ladder-in-30min](https://guangzhengli.com/blog/en/how-to-create-your-blog-for-free-by-hugo-ladder-in-30min/)
+* [How to create your blog for free in 10min](https://gullw9830.com/blog/en/how-to-create-your-blog-for-free-in-10min/)
+* [how-to-create-your-blog-for-free-by-hugo-ladder-in-30min](https://gullw9830.com/blog/en/how-to-create-your-blog-for-free-by-hugo-ladder-in-30min/)

@@ -61,7 +61,7 @@ params:
 
 #### Umami Analytics
 
-Follow [these steps](https://guangzhengli.com/blog/en/how-to-integrate-umami-for-free-to-blog-site/).
+Follow [these steps](https://gullw9830.com/blog/en/how-to-integrate-umami-for-free-to-blog-site/).
 
 ```yml
 params: 
@@ -115,7 +115,7 @@ These are all the parameters used by `hugo-coder` theme.
 | title                           | string | Yes      | Website Name                              |                                                              | `"Ladder"`                                                   |
 | theme                           | string | Yes      | theme name, not change                    | `"hugo-theme-ladder"`                                        | `"hugo-theme-ladder"`                                        |
 | license                         | string | No       | License                                   | `"MIT"`                                                      | `"MIT"`                                                      |
-| licenselink                     | string | No       | License URL                               | '"https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE"' | '"https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE"' |
+| licenselink                     | string | No       | License URL                               | '"https://github.com/gullw9830/hugo-theme-ladder/blob/master/LICENSE"' | '"https://github.com/gullw9830/hugo-theme-ladder/blob/master/LICENSE"' |
 | description                     | string | No       | Website Description                       |                                                              | `"'A fast, clean Hugo theme'"`                               |
 | defaultContentLanguage          | string | Yes      | Website default language                  | `"en"`                                                       | `"en"` or `"zh"`                                             |
 | googleAnalytics                 | string | No       | google analytics                          | `"G-xxx"`                                                    | ``"G-xxx"``                                                  |
@@ -144,7 +144,7 @@ Social Icons are optional. To use them you will need to set at least all the fol
 | ------------- | ------ | -------- | ---------------- | ------------------------------------- |
 | name          | string | Yes      | Icon name.       | `"Github"`                            |
 | pre           | string | Yes      | icon svg.        | `"find in https://feathericons.com/"` |
-| url           | string | Yes      | URL to redirect. | `"https://github.com/guangzhengli/"`  |
+| url           | string | Yes      | URL to redirect. | `"https://github.com/gullw9830/"`  |
 
 An example:
 
@@ -153,7 +153,7 @@ An example:
     - name: GitHub
       pre: >-
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
-      url: 'https://github.com/guangzhengli/hugo-theme-ladder'
+      url: 'https://github.com/gullw9830/hugo-theme-ladder'
     - name: Dashboard
       pre: >-
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-box"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line></svg>
@@ -201,7 +201,7 @@ baseURL: 'https://hugo-ladder.pages.dev'
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
-licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
+licenselink: 'https://github.com/gullw9830/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
 homepage: 'https://hugo-ladder.pages.dev'
 defaultContentLanguage: 'en'
@@ -240,7 +240,7 @@ params:
   comments:
     giscus:
       enable: true
-      repo: guangzhengli/hugo-ladder-exampleSite
+      repo: gullw9830/hugo-ladder-exampleSite
       repo_id: R_kgDOHyVOjg
       category: Announcements
       category_id: DIC_kwDOHyVOjs4CQsH7
@@ -249,7 +249,7 @@ params:
       lang: en # pick a language from https://github.com/giscus/giscus/tree/main/locales
     utteranc:
       enable: false
-      repo: guangzhengli/blog-comments
+      repo: gullw9830/blog-comments
       issueTerm: pathname
   analytics:
     google:
@@ -265,7 +265,7 @@ params:
     - name: GitHub
       pre: >-
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
-      url: 'https://github.com/guangzhengli/hugo-theme-ladder'
+      url: 'https://github.com/gullw9830/hugo-theme-ladder'
     - name: Dashboard
       pre: >-
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-box"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path><polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline><line x1="12" y1="22.08" x2="12" y2="12"></line></svg>

@@ -26,7 +26,7 @@ params:
 
 ### Umami Analytics
 
-Follow [these steps](https://guangzhengli.com/blog/en/how-to-integrate-umami-for-free-to-blog-site/).
+Follow [these steps](https://gullw9830.com/blog/en/how-to-integrate-umami-for-free-to-blog-site/).
 
 ```yml
 params:

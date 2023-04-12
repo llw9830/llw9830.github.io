@@ -21,5 +21,5 @@ featured: true
 
 ## Series Guides
 
-* [How to create your blog for free in 10min](https://guangzhengli.com/blog/zh/how-to-create-your-blog-for-free-in-10min/)
-* [how-to-create-your-blog-for-free-by-hugo-ladder-in-30min](https://guangzhengli.com/blog/zh/how-to-create-your-blog-for-free-by-hugo-ladder-in-30min/)
+* [How to create your blog for free in 10min](https://gullw9830.com/blog/zh/how-to-create-your-blog-for-free-in-10min/)
+* [how-to-create-your-blog-for-free-by-hugo-ladder-in-30min](https://gullw9830.com/blog/zh/how-to-create-your-blog-for-free-by-hugo-ladder-in-30min/)
